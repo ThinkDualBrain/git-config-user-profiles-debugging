@@ -6,6 +6,6 @@
   "scripts": {
     "test": "node src/main.ts"
   },
-  "author": "",
+  "author": "ThinkDualBrain",
   "license": "ISC"
 }
