@@ -1,0 +1,11 @@
+{
+  "name": "git-config-user-profiles-debugging",
+  "version": "1.0.0",
+  "description": "A test repo for helping debug error with Git Config User Profiles",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "node src/main.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
